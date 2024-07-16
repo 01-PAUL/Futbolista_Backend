@@ -1,28 +1,42 @@
-**Aplicación FullStack**
+# FullStackApp
 
-FullStackApp es una aplicación web creada con Spring Tools Suite para el backend y React para el frontend.
+FullStackApp es una aplicación web desarrollada utilizando **Spring Boot** para el backend y **React** para el frontend. Proporciona una experiencia de desarrollo integral para crear aplicaciones web modernas de manera eficiente.
 
-Spring Tools Suite Backend:
-RESTful API endpoints
-Integración de base de datos con Spring Data JPA
-Lombok
+## Tabla de contenido
 
-React Frontend:
-Visual Studio Code
-Integración con APIs backend.
+1. [Características](#características)
+2. [Prerrequisitos](#prerrequisitos)
+3. [Configuración y ejecución local](#configuración-y-ejecución-local)
 
-**Requisitos:**
+---
 
-Antes de comenzar, asegúrese de cumplir los siguientes requisitos:
+## Características
 
-* Kit de desarrollo de Java (JDK) instalado.
-* Node.js y npm instalados.
-* IDE con soporte para desarrollo Spring Boot y React.
+- **Backend de Spring Boot:**
+  - Puntos finales de API RESTful.
+  - Integración de base de datos con Spring Data JPA.
 
-Clonar el repositorio backend:
+- **Frontend de React:**
+  - Interfaz de usuario dinámica y responsiva.
+  - Gestión de estados mediante React Hooks.
+  - Integración con APIs del backend.
 
-	git clone https://github.com/arjungautam1/fullstack-backend.git
+- **Completa pila:**
+  - Integración perfecta entre el backend y el frontend.
+  - Flujo de trabajo de desarrollo moderno y eficiente.
 
-Clonar el repositorio Frontend:
+## Prerrequisitos
 
-	git clone https://github.com/arjungautam1/fullstack-frontend.git  
+Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
+
+- **JDK** (Kit de desarrollo de Java) instalado.
+- **Node.js y npm** instalados.
+- **IDE** con soporte para desarrollo de Spring Boot y React (por ejemplo, IntelliJ IDEA, VS Code).
+
+## Configuración y ejecución local
+
+Sigue estos pasos para configurar y ejecutar FullStackApp localmente:
+
+1. **Clonar el repositorio del backend:**
+   ```bash
+   git clone https://github.com/arjungautam1/fullstack-backend.git
