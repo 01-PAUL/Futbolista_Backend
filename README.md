@@ -1,4 +1,5 @@
 **Aplicación FullStack**
+
 FullStackApp es una aplicación web creada con Spring Tools Suite para el backend y React para el frontend.
 
 Spring Tools Suite Backend:
