@@ -2,23 +2,14 @@
 
 FullStackApp es una aplicación web desarrollada utilizando **Spring Tool Suite** para el backend y **React** para el frontend.
 
-## Tabla de contenido
-
-1. [Características](#características)
-2. [Requisitos](#requisitos)
-3. [Configuración y ejecución local](#configuración-y-ejecución-local)
-
----
-
 ## Características
 
 - **Spring Tool Suite Backend:**
   - RESTful API endpoints.
   - Integración de base de datos con Spring Data JPA.
-  - Lombok.
+  - Uso de Lombok.
 
 - **React Frontend:**
-  - Interfaz de usuario moderno y eficiente.
   - Gestión de estados mediante React Hooks.
   - Integración con APIs del backend.
 
