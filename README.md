@@ -1,22 +1,23 @@
 # FullStackApp
 
-FullStackApp es una aplicación web desarrollada utilizando **Spring Boot** para el backend y **React** para el frontend. Proporciona una experiencia de desarrollo integral para crear aplicaciones web modernas de manera eficiente.
+FullStackApp es una aplicación web desarrollada utilizando **Spring Tool Suite** para el backend y **React** para el frontend.
 
 ## Tabla de contenido
 
 1. [Características](#características)
-2. [Prerrequisitos](#prerrequisitos)
+2. [Requisitos](#requisitos)
 3. [Configuración y ejecución local](#configuración-y-ejecución-local)
 
 ---
 
 ## Características
 
-- **Backend de Spring Boot:**
-  - Puntos finales de API RESTful.
+- **Spring Tool Suite Backend:**
+  - RESTful API endpoints.
   - Integración de base de datos con Spring Data JPA.
+  - Lombok.
 
-- **Frontend de React:**
+- **React Frontend:**
   - Interfaz de usuario dinámica y responsiva.
   - Gestión de estados mediante React Hooks.
   - Integración con APIs del backend.
@@ -25,7 +26,7 @@ FullStackApp es una aplicación web desarrollada utilizando **Spring Boot** para
   - Integración perfecta entre el backend y el frontend.
   - Flujo de trabajo de desarrollo moderno y eficiente.
 
-## Prerrequisitos
+## Requisitos
 
 Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
@@ -37,6 +38,10 @@ Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
 Sigue estos pasos para configurar y ejecutar FullStackApp localmente:
 
-1. **Clonar el repositorio del backend:**
+1. **Clonar el repositorio del Backend:**
    ```bash
    git clone https://github.com/arjungautam1/fullstack-backend.git
+   
+1. **Clonar el repositorio del Frontend:**
+   ```bash
+   git clone https://github.com/arjungautam1/fullstack-frontend.git
