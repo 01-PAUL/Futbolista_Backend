@@ -67,7 +67,7 @@ public class FutbolistaController {
 	        if (objSalida == null) {
 	            salida.put("mensaje", "Ocurrió un error al registrar");
 	        } else {
-	            salida.put("mensaje", "Se registró exitosamente el Futbolista " + "'" + objSalida.getNombres() + " " 
+	            salida.put("mensaje", "Se registró exitosamente al Futbolista " + "'" + objSalida.getNombres() + " " 
 	                + obj.getApellidos() + "'" + " ID asignado: " + objSalida.getIdFutbolista());
 	        }
 	    } catch (Exception e) {
