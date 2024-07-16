@@ -12,6 +12,7 @@ FullStackApp es una aplicación web desarrollada utilizando **Spring Tool Suite*
 - **React Frontend:**
   - Gestión de estados mediante React Hooks.
   - Integración con APIs del backend.
+  - **npm start** para ejecutar la aplicación
 
 ## Requisitos
 
