@@ -18,13 +18,9 @@ FullStackApp es una aplicación web desarrollada utilizando **Spring Tool Suite*
   - Lombok.
 
 - **React Frontend:**
-  - Interfaz de usuario dinámica y responsiva.
+  - Interfaz de usuario moderno y eficiente.
   - Gestión de estados mediante React Hooks.
   - Integración con APIs del backend.
-
-- **Completa pila:**
-  - Integración perfecta entre el backend y el frontend.
-  - Flujo de trabajo de desarrollo moderno y eficiente.
 
 ## Requisitos
 
@@ -40,8 +36,8 @@ Sigue estos pasos para configurar y ejecutar FullStackApp localmente:
 
 1. **Clonar el repositorio del Backend:**
    ```bash
-   git clone https://github.com/arjungautam1/fullstack-backend.git
+   git clone https://github.com/01-PAUL/Futbolista_Backend.git
    
 1. **Clonar el repositorio del Frontend:**
    ```bash
-   git clone https://github.com/arjungautam1/fullstack-frontend.git
+   git clone https://github.com/01-PAUL/Futbolista_Frontend.git
