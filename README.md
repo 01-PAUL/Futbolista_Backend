@@ -12,6 +12,7 @@ Visual Studio Code
 Integración con APIs backend.
 
 **Requisitos:**
+
 Antes de comenzar, asegúrese de cumplir los siguientes requisitos:
 
 * Kit de desarrollo de Java (JDK) instalado.
